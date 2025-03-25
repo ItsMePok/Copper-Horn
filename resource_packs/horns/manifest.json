@@ -1,18 +1,26 @@
 {
   "format_version": 2,
+  "metadata": {
+    "authors": [
+      "ItsMePok"
+    ],
+    "license": "MIT", // RP/LICENSE
+    "url": "https://github.com/ItsMePok/Copper-Horn"
+  },
   "header": {
-    "name": "Copper Horns §aRP§r",
+    "pack_scope": "world",
+    "name": "v1.1 Copper Horns §aRP§r",
     "description": "Adds the Horns that never made it to vanilla, also with some extra features",
-    "uuid": "fcda4631-da18-4191-be10-50e6c9480396",
+    "uuid": "cf490178-0b2d-4c01-ac0c-4c4d2392835b",
     "version": [
       1,
-      0,
+      1,
       0
     ],
     "min_engine_version": [
       1,
       21,
-      40
+      60
     ]
   },
   "modules": [
@@ -29,10 +37,10 @@
   ],
   "dependencies": [
     {
-      "uuid": "22db3b15-0008-49da-a4fd-c2923d59edb3",
+      "uuid": "5aa91bc1-670b-468a-bc15-ee731b3ba251",
       "version": [
         1,
-        0,
+        1,
         0
       ]
     }

@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:sweet_moon_love"
+      "identifier": "poke_horn:sweet_moon_love"
     },
     "group": "copper_horn",
     "tags": [
@@ -32,7 +32,7 @@
       }
     },
     "result": {
-      "item": "poke:sweet_moon_love"
+      "item": "poke_horn:sweet_moon_love"
     }
   }
 }

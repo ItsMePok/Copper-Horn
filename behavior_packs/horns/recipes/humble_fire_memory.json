@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:humble_fire_memory"
+      "identifier": "poke_horn:humble_fire_memory"
     },
     "group": "copper_horn",
     "tags": [
@@ -32,7 +32,7 @@
       }
     },
     "result": {
-      "item": "poke:humble_fire_memory"
+      "item": "poke_horn:humble_fire_memory"
     }
   }
 }

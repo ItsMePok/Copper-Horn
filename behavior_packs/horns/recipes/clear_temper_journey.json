@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:clear_temper_journey"
+      "identifier": "poke_horn:clear_temper_journey"
     },
     "group": "copper_horn",
     "tags": [
@@ -14,7 +14,7 @@
         "item": "minecraft:copper_ingot"
       },
       {
-        "item": "poke:resist_goat_horn"
+        "item": "poke_horn:resist_goat_horn"
       }
     ],
     "pattern": [
@@ -26,11 +26,11 @@
         "item": "minecraft:copper_ingot"
       },
       "G": {
-        "item": "poke:resist_goat_horn"
+        "item": "poke_horn:resist_goat_horn"
       }
     },
     "result": {
-      "item": "poke:clear_temper_journey"
+      "item": "poke_horn:clear_temper_journey"
     }
   }
 }

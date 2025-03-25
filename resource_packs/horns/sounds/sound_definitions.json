@@ -1,273 +1,257 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "sound_definitions": {
-    "horn.poke:fly_goat_horn": {
+    "horn.poke_horn:fly_goat_horn": {
       "category": "record",
       "max_distance": 256.0,
       "min_distance": null,
       "sounds": [
-        "sounds/poke/call8"
+        "sounds/poke/horn/call8"
       ]
     },
-    "horn.poke:resist_goat_horn": {
+    "horn.poke_horn:resist_goat_horn": {
       "category": "record",
       "max_distance": 256.0,
       "min_distance": null,
       "sounds": [
-        "sounds/poke/call9"
+        "sounds/poke/horn/call9"
       ]
     },
-    /*"horn.call.8": { //Fly
-      "category": "record",
-      "max_distance": 256.0,
-      "min_distance": null,
+    "bass.poke_horn:great_sky_falling": {
       "sounds": [
-        "sounds/item/horn/call8"
-      ]
-    },
-    "horn.call.9": { //Resist
-      "category": "record",
-      "max_distance": 256.0,
-      "min_distance": null,
-      "sounds": [
-        "sounds/item/horn/call9"
-      ]
-    },*/
-    "bass.poke:great_sky_falling": {
-      "sounds": [
-        "sounds/poke/Bass0"
+        "sounds/poke/horn/Bass0"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:great_sky_falling": {
+    "melody.poke_horn:great_sky_falling": {
       "sounds": [
-        "sounds/poke/Melody0"
+        "sounds/poke/horn/Melody0"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:great_sky_falling": {
+    "harmony.poke_horn:great_sky_falling": {
       "sounds": [
-        "sounds/poke/Harmony0"
+        "sounds/poke/horn/Harmony0"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:old_hymn_resting": {
+    "bass.poke_horn:old_hymn_resting": {
       "sounds": [
-        "sounds/poke/Bass1"
+        "sounds/poke/horn/Bass1"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:old_hymn_resting": {
+    "melody.poke_horn:old_hymn_resting": {
       "sounds": [
-        "sounds/poke/Melody1"
+        "sounds/poke/horn/Melody1"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:old_hymn_resting": {
+    "harmony.poke_horn:old_hymn_resting": {
       "sounds": [
-        "sounds/poke/Harmony1"
+        "sounds/poke/horn/Harmony1"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:pure_water_desire": {
+    "bass.poke_horn:pure_water_desire": {
       "sounds": [
-        "sounds/poke/Bass2"
+        "sounds/poke/horn/Bass2"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:pure_water_desire": {
+    "melody.poke_horn:pure_water_desire": {
       "sounds": [
-        "sounds/poke/Melody2"
+        "sounds/poke/horn/Melody2"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:pure_water_desire": {
+    "harmony.poke_horn:pure_water_desire": {
       "sounds": [
-        "sounds/poke/Harmony2"
+        "sounds/poke/horn/Harmony2"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:humble_fire_memory": {
+    "bass.poke_horn:humble_fire_memory": {
       "sounds": [
-        "sounds/poke/Bass3"
+        "sounds/poke/horn/Bass3"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:humble_fire_memory": {
+    "melody.poke_horn:humble_fire_memory": {
       "sounds": [
-        "sounds/poke/Melody3"
+        "sounds/poke/horn/Melody3"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:humble_fire_memory": {
+    "harmony.poke_horn:humble_fire_memory": {
       "sounds": [
-        "sounds/poke/Harmony3"
+        "sounds/poke/horn/Harmony3"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:dry_urge_anger": {
+    "bass.poke_horn:dry_urge_anger": {
       "sounds": [
-        "sounds/poke/Bass4"
+        "sounds/poke/horn/Bass4"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:dry_urge_anger": {
+    "melody.poke_horn:dry_urge_anger": {
       "sounds": [
-        "sounds/poke/Melody4"
+        "sounds/poke/horn/Melody4"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:dry_urge_anger": {
+    "harmony.poke_horn:dry_urge_anger": {
       "sounds": [
-        "sounds/poke/Harmony4"
+        "sounds/poke/horn/Harmony4"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:clear_temper_journey": {
+    "bass.poke_horn:clear_temper_journey": {
       "sounds": [
-        "sounds/poke/Bass5"
+        "sounds/poke/horn/Bass5"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:clear_temper_journey": {
+    "melody.poke_horn:clear_temper_journey": {
       "sounds": [
-        "sounds/poke/Melody5"
+        "sounds/poke/horn/Melody5"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:clear_temper_journey": {
+    "harmony.poke_horn:clear_temper_journey": {
       "sounds": [
-        "sounds/poke/Harmony5"
+        "sounds/poke/horn/Harmony5"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:fresh_nest_thought": {
+    "bass.poke_horn:fresh_nest_thought": {
       "sounds": [
-        "sounds/poke/Bass6"
+        "sounds/poke/horn/Bass6"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:fresh_nest_thought": {
+    "melody.poke_horn:fresh_nest_thought": {
       "sounds": [
-        "sounds/poke/Melody6"
+        "sounds/poke/horn/Melody6"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:fresh_nest_thought": {
+    "harmony.poke_horn:fresh_nest_thought": {
       "sounds": [
-        "sounds/poke/Harmony6"
+        "sounds/poke/horn/Harmony6"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:secret_lake_tear": {
+    "bass.poke_horn:secret_lake_tear": {
       "sounds": [
-        "sounds/poke/Bass7"
+        "sounds/poke/horn/Bass7"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:secret_lake_tear": {
+    "melody.poke_horn:secret_lake_tear": {
       "sounds": [
-        "sounds/poke/Melody7"
+        "sounds/poke/horn/Melody7"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:secret_lake_tear": {
+    "harmony.poke_horn:secret_lake_tear": {
       "sounds": [
-        "sounds/poke/Harmony7"
+        "sounds/poke/horn/Harmony7"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:fearless_river_gift": {
+    "bass.poke_horn:fearless_river_gift": {
       "sounds": [
-        "sounds/poke/Bass8"
+        "sounds/poke/horn/Bass8"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:fearless_river_gift": {
+    "melody.poke_horn:fearless_river_gift": {
       "sounds": [
-        "sounds/poke/Melody8"
+        "sounds/poke/horn/Melody8"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:fearless_river_gift": {
+    "harmony.poke_horn:fearless_river_gift": {
       "sounds": [
-        "sounds/poke/Harmony8"
+        "sounds/poke/horn/Harmony8"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "bass.poke:sweet_moon_love": {
+    "bass.poke_horn:sweet_moon_love": {
       "sounds": [
-        "sounds/poke/Bass9"
+        "sounds/poke/horn/Bass9"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "melody.poke:sweet_moon_love": {
+    "melody.poke_horn:sweet_moon_love": {
       "sounds": [
-        "sounds/poke/Melody9"
+        "sounds/poke/horn/Melody9"
       ],
       "category": "player",
       "min_distance": 256,
       "max_distance": 256
     },
-    "harmony.poke:sweet_moon_love": {
+    "harmony.poke_horn:sweet_moon_love": {
       "sounds": [
-        "sounds/poke/Harmony9"
+        "sounds/poke/horn/Harmony9"
       ],
       "category": "player",
       "min_distance": 256,

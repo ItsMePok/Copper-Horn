@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:old_hymn_resting"
+      "identifier": "poke_horn:old_hymn_resting"
     },
     "group": "copper_horn",
     "tags": [
@@ -14,7 +14,7 @@
         "item": "minecraft:copper_ingot"
       },
       {
-        "item": "poke:fly_goat_horn"
+        "item": "poke_horn:fly_goat_horn"
       }
     ],
     "pattern": [
@@ -26,11 +26,11 @@
         "item": "minecraft:copper_ingot"
       },
       "G": {
-        "item": "poke:fly_goat_horn"
+        "item": "poke_horn:fly_goat_horn"
       }
     },
     "result": {
-      "item": "poke:old_hymn_resting"
+      "item": "poke_horn:old_hymn_resting"
     }
   }
 }

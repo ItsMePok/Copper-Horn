@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:fresh_nest_thought"
+      "identifier": "poke_horn:fresh_nest_thought"
     },
     "group": "copper_horn",
     "tags": [
@@ -32,7 +32,7 @@
       }
     },
     "result": {
-      "item": "poke:fresh_nest_thought"
+      "item": "poke_horn:fresh_nest_thought"
     }
   }
 }

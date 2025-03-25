@@ -9,7 +9,20 @@
             "group_identifier": {
               "name": "minecraft:itemGroup.name.goatHorn"
             },
-            "items": []
+            "items": [
+              "poke_horn:fly_goat_horn",
+              "poke_horn:resist_goat_horn",
+              "poke_horn:clear_temper_journey",
+              "poke_horn:dry_urge_anger",
+              "poke_horn:fearless_river_gift",
+              "poke_horn:fresh_nest_thought",
+              "poke_horn:great_sky_falling",
+              "poke_horn:humble_fire_memory",
+              "poke_horn:old_hymn_resting",
+              "poke_horn:pure_water_desire",
+              "poke_horn:secret_lake_tear",
+              "poke_horn:sweet_moon_love"
+            ]
           }
         ]
       }

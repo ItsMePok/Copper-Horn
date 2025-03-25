@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:dry_urge_anger"
+      "identifier": "poke_horn:dry_urge_anger"
     },
     "group": "copper_horn",
     "tags": [
@@ -32,7 +32,7 @@
       }
     },
     "result": {
-      "item": "poke:dry_urge_anger"
+      "item": "poke_horn:dry_urge_anger"
     }
   }
 }

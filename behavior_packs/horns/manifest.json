@@ -1,18 +1,26 @@
 {
   "format_version": 2,
+  "metadata": {
+    "authors": [
+      "ItsMePok"
+    ],
+    "license": "MIT", // RP/LICENSE
+    "url": "https://github.com/ItsMePok/Copper-Horn"
+  },
   "header": {
-    "name": "Copper Horns §cBP§r",
-    "description": "Adds the Horns that never made it to vanilla, also with some extra features",
-    "uuid": "7e32dd72-8631-4dab-8e9c-4eb26aaea01c",
+    "pack_scope": "world",
+    "name": "v1.1 Copper Horns §cBP§r",
+    "description": "Adds the Horns that never made it to vanilla, along with some extra features",
+    "uuid": "5aa91bc1-670b-468a-bc15-ee731b3ba251",
     "version": [
       1,
-      0,
+      1,
       0
     ],
     "min_engine_version": [
       1,
       21,
-      40
+      60
     ]
   },
   "modules": [
@@ -32,17 +40,13 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": [
-        1,
-        15,
-        0
-      ]
+      "version": "1.15.0"
     },
-    {
-      "uuid": "b31e0d26-decb-4784-abf7-10c9b2dde5d7",
+    { // RP Manifest
+      "uuid": "cf490178-0b2d-4c01-ac0c-4c4d2392835b",
       "version": [
         1,
-        0,
+        1,
         0
       ]
     }

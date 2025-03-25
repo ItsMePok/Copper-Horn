@@ -1,22 +1,21 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:item": {
     "description": {
-      "identifier": "poke:resist_goat_horn",
+      "identifier": "poke_horn:resist_goat_horn",
       "menu_category": {
-        "category": "equipment",
-        "group": "itemGroup.name.goatHorn"
+        "category": "equipment"
       }
     },
     "components": {
       "minecraft:max_stack_size": 1,
       "minecraft:icon": {
         "textures": {
-          "default": "goat_horn"
+          "default": "poke_horn_goat_horn"
         }
       },
       "minecraft:custom_components": [
-        "poke:goat_horn"
+        "poke_horn:goat_horn"
       ],
       "minecraft:cooldown": {
         "category": "goat_horn",

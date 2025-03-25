@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:fearless_river_gift"
+      "identifier": "poke_horn:fearless_river_gift"
     },
     "group": "copper_horn",
     "tags": [
@@ -32,7 +32,7 @@
       }
     },
     "result": {
-      "item": "poke:fearless_river_gift"
+      "item": "poke_horn:fearless_river_gift"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:recipe_shaped": {
     "assume_symmetry": true,
     "description": {
-      "identifier": "poke:great_sky_falling"
+      "identifier": "poke_horn:great_sky_falling"
     },
     "group": "copper_horn",
     "tags": [
@@ -32,7 +32,7 @@
       }
     },
     "result": {
-      "item": "poke:great_sky_falling"
+      "item": "poke_horn:great_sky_falling"
     }
   }
 }
